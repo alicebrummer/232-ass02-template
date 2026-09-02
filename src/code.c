@@ -526,7 +526,7 @@ int challenge11()
 // function.
 // ============================================================
 
-int transform(int x)
+int transform(int x) // lknsd
 {
     return x * 3;
 }
