@@ -20,8 +20,50 @@ int challenge12();
 int challenge13();
 int challenge14();
 
+/*int factorial(int a)
+	 {
+		if (a > 1)
+			return facorial(a-1) * a;
+		else
+			return 1;
+	 }
+			*/
 int main()
 {
+	/*
+	int result = factorial(5);
+
+	int x = 5;
+	float z = 3.61f;
+	for (int i = 0; i < 5; i++)
+	{
+		printf("%d", i);
+		/*body*/
+		/*while(1)
+		{ for (int j = 0; j < 6; j++) //array[5] 0-4 raise an exception
+			{
+				/*code*/
+				
+				/*j = 3;
+				int x = 5;
+				*/
+
+
+				/*x++;
+
+
+				{
+					int x = 6;
+					x++;
+					{
+						int x =7;
+						x++;
+					}
+				}
+			}	
+		}
+	}
+	*/
 
 	challenge01();
 	challenge02();
